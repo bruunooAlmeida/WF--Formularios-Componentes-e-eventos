@@ -4,8 +4,8 @@
 ### Platarforma: [Alura](https://cursos.alura.com.br/course/windows-forms-csharp-formularios-componentes-eventos "Heading link")
 
 ### Situação: [Concluido](https://cursos.alura.com.br/certificate/bruno-H/windows-forms-csharp-formularios-componentes-eventos "Heading link")
-
-
+## 🚀 Skills do Curso
+<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  alt="C#"/></code>
 
 ### Duração: 14 horas.
 
@@ -19,5 +19,4 @@
 -  Customize a sua aplicação com ícones e imagens
 -  Publique a sua aplicação, para outros usuários utilizarem
 
-## 🚀 Skills
-<code><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"  alt="C#"/></code>
+
